@@ -26,7 +26,7 @@ public class Mod7 {
 
         int startState = 0;
         int acceptingState = 2;
-        String inputString = "";
+        String inputString;
         int currentState;
 
         // Input handling

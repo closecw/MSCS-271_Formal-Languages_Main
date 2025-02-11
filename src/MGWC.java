@@ -38,7 +38,7 @@ public class MGWC {
 
         int startState = 0;
         int acceptingState = 7;
-        String inputString = "";
+        String inputString;
         int currentState;
 
         System.out.println("Man-Wolf-Goat-Cabbage: Enter a string for a moveset (0 is nothing, 1 is wolf, 2 is goat, 3 is cabbage): ");
